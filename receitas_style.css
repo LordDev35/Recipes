@@ -11,8 +11,9 @@ h1 {
 }
 
 
-img {
-    text-align: center;
+#container img{
+    display: block;
+    margin: auto;
     height:400px;
     width: 600px;
 }
